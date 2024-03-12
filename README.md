@@ -49,6 +49,9 @@ This project used python 3.10.12 and the code files are in ipynb version.
 * Model Outcome Analysis
 * Conclusion
 
+## Project Question:
+predictability of credit card default based on spending pattern, demographic behaviour and limit allocation.
+
 ## Content 
 * Data:
   * default of credit card clients.xls (raw data)
