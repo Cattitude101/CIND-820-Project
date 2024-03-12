@@ -50,7 +50,7 @@ This project used python 3.10.12 and the code files are in ipynb version.
 * Conclusion
 
 ## Project Question:
-predictability of credit card default based on spending pattern, demographic behaviour and limit allocation.
+Predictability of credit card default based on spending pattern, demographic behaviour and limit allocation.
 
 ## Content 
 * Data:
